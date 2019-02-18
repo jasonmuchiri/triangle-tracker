@@ -1,17 +1,23 @@
+## project name
 The project is known as Triangle Tracker.
+## project description
 It is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.
+## author
 Authored by Jason \
 jasonmuchiri
-       Behavior                Input Example               Output Example
-|input is number          |        4, 3, 5              | true or |                                                       | false
-| all sides are equal     |        6, 6, 6              |equilateral triangle
-| two sides are equal     |        8, 7, 8              |isosceles triangle
-| no sides are equal      |        9, 6, 5              |scalene triangle
-|sum of two sides is equal|                             |
-|to or greater than the   |        4, 4, 8              |NOT a triangle
-|third side               |        3, 4, 9              |NOT a triangle
-
+## BDD
+|    **Behavior**         |       **Input Example**     |    **Output Example**|
+|-------------------------|-----------------------------|----------------------|  
+|input is number          |        4, 3, 5              | true or              | |                         |                             | false                |
+| all sides are equal     |        6, 6, 6              |equilateral triangle  |
+| two sides are equal     |        8, 7, 8              |isosceles triangle    |
+| no sides are equal      |        9, 6, 5              |scalene triangle      |
+|sum of two sides is equal|                             |                      |
+|to or greater than the   |        4, 4, 8              |NOT a triangle        |
+|third side               |        3, 4, 9              |NOT a triangle        |
+## contacts
 contact: jasonmkinyua@gmail.com
+## License
 MIT License
 
 Copyright (c) 2019 cooldragon
